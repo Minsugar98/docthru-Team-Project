@@ -21,25 +21,10 @@
   - 챌린지 포기
   - 챌린지 신청 취소
 
-## <span id="dev">기술 및 개발 환경</span>
-
-### Backend
-<img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Postgre-black?style=for-the-badge&logo=postgreSQL&logoColor=white">
-
-### Database
-<img src="https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=Prisma&logoColor=white">
-
-### 협업방식
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="100" height="28">
-
-
-### 배포
-
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-<br>
-
+## <span id="dev">기술스택</span>
+### **기술 스택**
+- **Express, Prisma, NodeJS**
+- **AWS EC2, S3, PostgreSQL, Github**
 
 
 
