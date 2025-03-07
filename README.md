@@ -4,6 +4,7 @@
 		
 <b>[Docthru-API 바로가기](https://docthru-be.vercel.app/api-docs/)</b> <br>
 <b>[Docthru 바로가기](https://docthru.vercel.app/)</b> <br>
+<b>[시연 영상](https://drive.google.com/file/d/1yDwxmnJVvFW97Uld3iAmxzuNDuB9XU8b/view?usp=sharing)<b><br>
 
 <br> 
 </div>
