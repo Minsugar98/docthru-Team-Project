@@ -8,7 +8,7 @@
 <br> 
 </div>
 
-## <span id="roles"> 담당 개발 </span>
+## <span id="roles"> 개발 기능 </span>
 - [챌린지 Swagger](https://docthru-be.vercel.app/api-docs/#/Challenge)
   - 챌린지 목록 조회
   - 챌린지 어플리케이션 목록 조회
